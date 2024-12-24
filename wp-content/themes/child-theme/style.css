@@ -1,0 +1,553 @@
+/*
+Theme Name:   Child Theme
+Description:  Tema hijo de Popular FX 
+Author:       MQ
+Author URL:   https://fenaseo2.masterquimica.com/
+Template:     popularfx
+Version:      1.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  popularfx
+*/
+
+/* Acá empezarías a personalizar tu tema con código CSS */
+.um-form{
+	background-color: #d3cfcfd1;
+    border-radius: 40px;
+    padding: 40px;
+}
+
+.um-field{
+	color: black !important;
+}
+
+.um-row-heading{
+	text-align: center;
+}
+
+.um-field-label{
+	display:none !important;
+}
+
+#username-497, #user_password-497{
+	border-radius: 20px;
+}
+
+#um-submit-btn{
+	background-color: #ff2323;
+}
+
+.size-woocommerce_thumbnail{
+	width: 120px;
+}
+
+.product{
+    padding: 50px 50px 50px 50px !important;
+}
+
+.attachment-woocommerce_thumbnail{
+	filter: drop-shadow(2px 2px 3px black);
+}
+
+.woocommerce-loop-product__title{
+	color: #ff2323 !important;
+}
+
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
+	background-color: #ff2323 !important;
+	border-radius: 20px;
+}
+
+.woocommerce div.product div.images img {
+	margin: 0 auto;
+	width: 80%;
+}
+
+.left{
+	text-align: left;
+}
+
+/*Aumento del z-index para ocultar el header al visualizar de forma detallada un producto*/
+.pswp--open{
+	z-index: 100000;
+}
+
+/*Cambio de color del fondo del submenu*/
+.pagelayer-wp_menu-ul .pagelayer-mega-menu {
+	background: #e5e4e4 !important;
+}
+
+/*Z-index al carrito para no tener inconvenientes con el Jivochat*/
+.xoo-wsc-container{
+	z-index: 999999999999;
+}
+
+/*Cambiar tamaño logo login*/
+.fa-circle-user{
+	font-size: 50px !important;
+}
+
+/*Alerta Producto agregado a la lista de cotización*/
+.yith_ywraq_add_item_response_message{
+	background-color: #58df58;
+    font-size: 16px;
+    padding: 20px;
+    border: 2px solid darkgreen;
+}
+
+/*Link ver lista de cotizaciones al agregar un producto*/
+.yith_ywraq_add_item_browse_message{
+    padding: 30px 0 30px 0;
+	text-decoration: underline;
+	color: #ff2323 !important;
+}
+
+.yith_ywraq_add_item_browse_message > a{
+	color: #ff2323 !important;
+}
+
+/*Espaciado boton Solicitar Cotización*/
+.yith-ywraq-add-button{
+	padding: 10px 0 10px 0;
+}
+
+/*Centrar nombre de los productos*/
+.woocommerce-loop-product__title{
+	text-align: center;
+}
+
+/*Color circulo cantidades*/
+.acomulado_product {
+	background-image: url('https://fenaseo.masterquimica.com/wp-content/uploads/acumulado-14.png');
+}
+
+/**/
+.wpcf7 .cf7s-cargo{
+	color: #000000 !important;
+    border: none !important;
+}
+
+.wpcf7 .cf7s-cargo fieldset{
+	background: transparent !important;
+	color: black;
+}
+
+.wpcf7 .cf7s-cargo legend{
+	background-color: #adada7 !important;
+}
+
+.wpcf7-form.cf7skins li label{
+	color: black;
+}
+
+.wpcf7 .cf7s-cargo select {
+	background: #fafafa !important;
+	width: 100%;
+}
+
+.wpcf7 .wpcf7-form.cf7skins.cf7s-cargo input, .wpcf7 .wpcf7-form.cf7skins.cf7s-cargo textarea{
+	background: #fafafa !important;
+}
+
+.wpcf7 .wpcf7-form.cf7skins.cf7s-cargo input[type="submit"]{
+	background-color: black !important;
+}
+
+.wpcf7 .wpcf7-form.cf7skins.cf7s-cargo input[type="submit"]:hover{
+	background-color: #ff2323 !important;
+	color: white !important;
+}
+
+.popularfx-body .woocommerce-page main{
+	padding: 50px;
+}
+
+/*Widget Categoria*/
+.container-widget{
+	font-family: 'Roboto';
+	width: 100%;
+}
+    
+.widget-title-cat{
+	margin: 0px;
+	background-color: #ff2323;        
+	padding: 5px;        
+	color: white !important;        
+	text-align: center;        
+	border: 1px solid #eaeaea;
+}
+    
+.list-widget {       
+	width: 100%;       
+	display: flex;        
+	flex-direction: column;    
+}
+   
+.list-widget a{       
+	border: 1px solid #eaeaea;        
+	padding: 10px 30px 10px 30px;       
+	background: white;      
+	text-decoration: none;        
+	color: grey;   
+}
+
+.list-widget a p{
+ 	padding: 0;
+    margin: 0;
+}
+
+.list-widget a:hover{       
+	cursor: pointer;       
+	background-color: rgb(0, 0, 0);       
+	color: white;
+}
+    
+.icon_right{       
+	float: right; 
+}
+
+.widget-area{
+	background-color: transparent !important;
+	padding: 0px !important;
+	margin-top: 40px !important;
+	border: 0px !important;
+	box-shadow: 0px 0px 0px 0px !important;
+}
+
+/*Estilos alertas formulario solicitud de soporte*/
+.wpcf7 form.invalid .wpcf7-response-output, .wpcf7 form.unaccepted .wpcf7-response-output, .wpcf7 form.payment-required .wpcf7-response-output{
+	padding: 20px;
+	background: #fd6a6a;
+	border-color: #ff0000;
+}
+
+.wpcf7 form.sent .wpcf7-response-output{
+	padding: 20px;
+    background: #73e97e;
+}
+
+/* Eliminar border en catalogo y en cada producto */
+.woocommerce main, .woocommerce-page main {
+    border: 0 !important;
+    box-shadow: 0px 0px 0px 0px !important;
+}
+
+/*Personalización contenedor producto en el catalogo*/
+.woocommerce ul.products li.product .price{
+	color: #666;
+	text-align: center;
+	font-size: 18px !important;
+}
+
+/*Personalización Precio producto*/
+.woocommerce:where(body:not(.woocommerce-uses-block-theme)) div.product p.price, .woocommerce:where(body:not(.woocommerce-uses-block-theme)) div.product span.price{
+	color: #ff2323;   
+	font-family: 'Roboto' !important;
+}
+
+.price_product{
+	margin-bottom: 20px !important;
+}
+
+.woocommerce_product_container_price{
+	display: flex;
+    flex-direction: column;
+}
+
+.flex{
+	    display: flex;
+    flex-direction: column;
+}
+
+/*.container_barra{
+	width: 100%;
+    border: 1px solid #eb5e5e;
+    background-color: #dbdbdb;
+    border-radius: 20px;
+}
+
+.barra_progress{
+	width: 5%;
+	background-color: #ff2323;
+	border-radius: 20px;
+	margin: 1px;
+	color: white;
+}*/
+
+.precio-anterior span{
+	text-decoration: line-through;
+	color: grey;
+}
+
+#precio_x_escala{
+	font-size: 25px;
+    color: #ff2323;
+    font-weight: bold;
+	font-family: 'Roboto' !important;
+}
+
+.alert_escala_x_product{
+	padding: 10px;
+	width: 85%;
+	float: right;
+}
+
+/**/
+.ywraq-form-table-wrapper.wide form#yith-ywraq-form {
+    flex-basis: 80%;
+}
+
+.ywraq-form-table-wrapper.wide .yith-ywraq-mail-form-wrapper {
+    flex-basis: 20%;
+    margin-left: 5%;
+}
+
+/* Acomulado */
+.container_acomulado{
+	position: relative;
+  width: 100%;
+  max-width: 100%;
+	 display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	margin-bottom: 20px
+}
+
+.container_acomulado img{
+	width: 90px !important;
+}
+
+.text_acomulado{
+	position: absolute;
+	top: 50%;	
+	left: 50%;
+	transform: translate(-50%, -30%); 
+	color: white; 
+	text-align: center;
+}
+
+
+.text_acomulado p{
+	font-size: 30px;
+}
+
+.woocommerce-Price-amount{
+	font-weight: bold !important;
+}
+
+.cart_item{
+	font-family: 'Roboto' !important;
+}
+
+.wp-post-image{
+	filter: drop-shadow(0 0 10px rgba(0, 0, 0, .4));
+	width: 70%;
+	padding: 30px;
+}
+
+.flex-control-nav li img{
+	padding: 8px;
+}
+
+:root {
+	--bar-color: royalblue;
+	--fill-size: 0%;
+}
+
+.progress-bar{
+	position: relative;
+	width: 200px;
+	height: 20px;
+	background-color: #ccc;
+	border-radius: 2em;
+	overflow: hidden;
+}
+
+.progress-bar:before{
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: var(--bar-color);
+	transform: translatex(-100%);
+	animation: fill-bar 0.8s 0.3s ease-in-out forwards;
+}
+
+@keyframes fill-bar {
+	to {
+		transform: translatex(var(--fill-size));
+	}
+}
+
+@keyframes progress {
+  0% { --percentage: 0; }
+  100% { --percentage: var(--value); }
+}
+
+.container-torta, .flex-control-nav{
+	display:flex;
+	justify-content: center;
+}
+
+@property --percentage {
+  syntax: '<number>';
+  inherits: true;
+  initial-value: 0;
+}
+
+[role="progressbar"] {
+  --percentage: var(--value);
+  --primary: #369;
+  --secondary: #adf;
+  --size: 80px;
+  animation: progress 2s 0.5s forwards;
+  width: var(--size);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  position: relative;
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+[role="progressbar"]::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: conic-gradient(var(--primary) calc(var(--percentage) * 1%), var(--secondary) 0);
+  mask: radial-gradient(white 55%, transparent 0);
+  mask-mode: alpha;
+  -webkit-mask: radial-gradient(#0000 55%, #000 0);
+  -webkit-mask-mode: alpha;
+}
+
+[role="progressbar"]::after {
+  content: attr(data-porcentaje);
+  font-size: calc(var(--size) / 5);
+  color: var(--primary);
+}
+
+.danger{
+	--primary: #ff001f;
+	--secondary: #f38491e0;
+}
+
+.warning{
+	--primary: #ff9100;
+	--secondary: #ffc67cdb;
+}
+
+.success{
+	--primary: #00ff3b;
+	--secondary: #66ff89d1;
+}
+
+/* Tooltip */
+tool-tip{
+	width: 210px;
+	background: #ebebeb;
+	position: absolute;
+	z-index: 1;
+	pointer-events: none;
+	user-select: none;
+	box-shadow: 0 0 10px black;
+
+	font-size: .8rem;
+	border-radius: 8px;
+	top: -70%;
+	padding: .5rem 1rem;
+	text-align: center;
+	
+	opacity: 0;
+	transition: opacity .3s ease;
+}
+
+:has(> tool-tip){
+	position: relative;
+}
+
+:has(> tool-tip):hover tool-tip{
+	opacity: 1;
+}
+
+.text-strong{
+	font-weight: bold;
+}
+
+
+/* Progress Bar */
+.cart{
+	display:flex;
+}
+
+.container-bar{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+
+.container-progress{
+    position: relative;
+	display: flex;
+    justify-content: space-between;
+	align-items: center;
+    width: 600px; 
+}
+
+.container-progress::after{
+	content: '';
+    position: absolute;
+    height: 3px;
+    width: 90%;
+    top: 15%;
+    left: 1.2rem;
+    background-color: grey;
+    z-index: 0;
+}
+
+.progress{
+    position: absolute;
+    left: 1.2rem;
+    height: 3px;
+    top: 16%;
+    width: 0%;
+    transform: translateY(-50%);
+    background-color: red;
+    z-index: 1;
+}
+
+.progress-step{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-weight: 500;
+    color: red;
+    z-index: 2;
+}
+
+.progress-step .fas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+    border: 3px solid gray;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    font-size: 1rem !important;
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.progress-step .fas.active{
+    color: white !important;
+    border: 3px solid var(--color) !important;
+    background-color: var(--color) !important; 
+}

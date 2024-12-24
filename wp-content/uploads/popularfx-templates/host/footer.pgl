@@ -1,0 +1,31 @@
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","ele_padding":"30px,0px,30px,0px","ele_bg_type":"color","ele_bg_color":"#000000ff","pagelayer-id":"lse3246"} -->
+<!-- sp:pagelayer/pl_col {"overlay_hover_delay":"400","pagelayer-id":"vfd4687"} -->
+<!-- sp:pagelayer/pl_inner_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","pagelayer-id":"afi7442"} -->
+<!-- sp:pagelayer/pl_inner_col {"overlay_hover_delay":"400","col":"6","pagelayer-id":"my76604"} -->
+<!-- sp:pagelayer/pl_wp_title {"site_name":"Host","site_title_state":"normal","text-align":"left","site_title_style":",40,,,,,Solid,,Uppercase,,","title_color":"#ffffffff","title_padding":"5,0,5,0","pagelayer-id":"7ac6142"} /-->
+<!-- sp:pagelayer/pl_text {"ele_padding":"10px,0px,0px,0px","text":"\n\n\n\u003cp\u003e\u003cspan style=\u0022color: rgb(255, 255, 255);\u0022\u003eLorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\u003c\/span\u003e\u003c\/p\u003e","pagelayer-id":"xyl1019"} --><p><span style="color: rgb(255, 255, 255);">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</span></p><!-- /sp:pagelayer/pl_text -->
+<!-- sp:pagelayer/pl_share_grp {"type":"icon","bg_shape":"pagelayer-social-bg-none","align":"left","vspace":"0","hspace":"20","height":"0","icon_size":"25","icon_space":"5","color_scheme":"","icon_color":"#ffffff","social_hover_delay":"400","name_typo":",15,,,,,solid,,,,","ele_padding":"15px,0px,0px,0px","icon_bg_color":"","social_hover":"hover","icon_color_hover":"#00fb21ff","hspace_mobile":"15","pagelayer-id":"w4n7626"} -->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-facebook-f","pagelayer-id":"g048180"} /-->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-twitter","pagelayer-id":"u8p3267"} /-->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-google-plus-g","pagelayer-id":"13d8628"} /-->
+<!-- sp:pagelayer/pl_share {"icon":"fab fa-instagram","pagelayer-id":"z7x1772"} /-->
+<!-- /sp:pagelayer/pl_share_grp -->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- sp:pagelayer/pl_inner_col {"overlay_hover_delay":"400","col":"3","pagelayer-id":"spw1287"} -->
+<!-- sp:pagelayer/pl_heading {"heading_state":"normal","color":"","heading_typo":",,,,,,Solid,,,,","text":"\u003ch3\u003eQuick Link\u003c\/h3\u003e","pagelayer-id":"2ad7550"} --><h3>Quick Link</h3><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_list {"list_type":"none","spacing":"10","list_text_state":"hover","item_indent":"10","list_icon_state":"normal","icon_color":"#00fb21ff","icon_border_type":"","icon_border_color":"#cbd2dc78","icon_border_width":"3","list_color":"#ffffffff","list_color_hover":"#00fb21ff","list_hover_delay":"400","list_typo_hover":"Raleway,16,,,,,Solid,,,,","list_typo":"Raleway,16,,,,,Solid,,,,","pagelayer-id":"lxf1710"} -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"true","icon":"far fa-dot-circle","item":"\n\nHome","pagelayer-id":"67m8338"} -->Home<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"true","icon":"far fa-dot-circle","item":"\n\nAbout Us","pagelayer-id":"5ag7207"} -->About Us<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"true","icon":"far fa-dot-circle","item":"\n\nContact Us","pagelayer-id":"6kh3280"} -->Contact Us<!-- /sp:pagelayer/pl_list_item -->
+<!-- /sp:pagelayer/pl_list -->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- sp:pagelayer/pl_inner_col {"overlay_hover_delay":"400","col":"3","pagelayer-id":"j0k9195"} -->
+<!-- sp:pagelayer/pl_heading {"heading_state":"normal","color":"","text":"\u003ch3\u003eReach Us\u003c\/h3\u003e","pagelayer-id":"mqv2503"} --><h3>Reach Us</h3><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_address {"icon":"fas fa-map-marker-alt","space":"10","color":"#ffffffff","typography":"Raleway,16,,,,,Solid,,,,","icon_color":"#00fb21ff","icon_size":"16","pagelayer-id":"cxm3823"} /-->
+<!-- sp:pagelayer/pl_phone {"icon":"fas fa-mobile-alt","ele_padding":"10px,0px,0px,0px","color":"#ffffffff","typography":"Raleway,16,,,,,Solid,,,,","space":"10","icon_size":"16","icon_color":"#00fb21ff","pagelayer-id":"god4959"} /-->
+<!-- sp:pagelayer/pl_email {"icon":"fas fa-envelope","ele_padding":"10px,0px,0px,0px","color":"#ffffffff","typography":"Raleway,16,,,,,Solid,,,,","space":"10","icon_color":"#00fb21ff","icon_size":"16","pagelayer-id":"lty8374"} /-->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- /sp:pagelayer/pl_inner_row -->
+<!-- sp:pagelayer/pl_copyright {"color":"#ffffffff","ele_padding_mobile":"10px,0px,0px,0px","copyright_text":"\u00a9 2020 Host","typography":",,,,,,Solid,,Uppercase,,","pagelayer-id":"wz79396"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->

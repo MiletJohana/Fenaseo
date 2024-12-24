@@ -1,0 +1,120 @@
+[20-Nov-2024 20:52:58 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 20:52:58 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 20:52:58 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 20:52:58 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 20:52:58 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 20:52:58 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 20:56:27 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 20:56:27 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 20:56:27 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 20:56:27 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 20:56:27 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 20:56:27 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 20:56:38 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 20:56:38 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 20:56:38 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 20:56:38 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 20:56:38 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 20:56:38 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:00:08 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:00:08 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:00:08 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:00:08 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:00:08 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:00:08 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:01:39 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:01:39 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:01:39 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:01:39 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:01:39 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:01:39 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:01:50 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:01:50 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:01:50 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:01:50 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:01:50 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:01:50 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:23:32 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:23:32 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:23:32 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:23:32 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:23:32 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:23:32 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:23:55 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:23:55 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:23:55 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:23:55 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:23:55 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:23:55 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:24:42 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:24:42 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:24:42 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:24:42 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:24:42 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:24:42 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:26:57 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:26:57 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:26:57 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:26:57 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:26:57 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:26:57 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:31:42 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:31:42 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:31:42 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:31:42 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:31:42 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:31:42 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:33:26 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:33:26 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[20-Nov-2024 21:33:26 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:33:26 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[20-Nov-2024 21:33:26 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[20-Nov-2024 21:33:26 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 01:19:27 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 01:19:27 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 01:19:27 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 01:19:27 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 01:19:27 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 01:19:27 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 01:19:31 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 01:19:31 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 01:19:31 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 01:19:31 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 01:19:31 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 01:19:31 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 01:19:42 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 01:19:42 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 01:19:42 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 01:19:42 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 01:19:42 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 01:19:42 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 15:05:00 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 15:05:00 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 15:05:00 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 15:05:00 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 15:05:00 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 15:05:00 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 15:09:54 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 15:09:54 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 15:09:54 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 15:09:54 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 15:09:54 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 15:09:54 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 15:10:06 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 15:10:06 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 15:10:06 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 15:10:06 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 15:10:06 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 15:10:06 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 16:50:17 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 16:50:17 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 16:50:17 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 16:50:17 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 16:50:17 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 16:50:17 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 16:50:20 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 16:50:20 UTC] PHP Warning:  Attempt to read property "escala" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 40
+[21-Nov-2024 16:50:20 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 16:50:20 UTC] PHP Warning:  Attempt to read property "vol_min" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 41
+[21-Nov-2024 16:50:20 UTC] PHP Warning:  Undefined array key 0 in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
+[21-Nov-2024 16:50:20 UTC] PHP Warning:  Attempt to read property "precio" on null in /home/masterqu/subdominios/FENASEO/wp-content/SQL/consulta_precios.php on line 42
